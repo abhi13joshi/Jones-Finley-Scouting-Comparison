@@ -1,8 +1,8 @@
-## Jones-Finley-Scouting-Comparison
+# Jones-Finley-Scouting-Comparison
 
 Scouting report analysis and comparison of Ryan Finley and Daniel Jones' college careers for a competition between NC State and Duke's Sports Analytics clubs.
 
-# NCSUAC Group Members:
+## NCSUAC Group Members:
 Abhi Joshi
 
 Pat Walther
