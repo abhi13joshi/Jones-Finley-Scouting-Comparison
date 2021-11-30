@@ -1,5 +1,3 @@
-setwd('C:/Users/abhi1/OneDrive/Documents/NCSUSAC/Duke Competition')
-
 #install.packages("rvest")
 #install.packages("dplyr")
 #install.packages("ggplot2")
